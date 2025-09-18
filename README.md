@@ -1,6 +1,9 @@
 # fundamentos-JS
 
 Diferenciar **var, let e const** e identificar qual a melhor forma para armazenar dados de acordo com cada situação;
-A proteger dados em uma variável de serem alterados, utilizando const;
+
+Proteger dados em uma variável de serem alterados, utilizando const;
+
 Lidar com mensagens de erro, entendendo o que o Node.js está tentando nos dizer com elas, para realizar correções no código;
+
 Trabalhar com escopos e entender como os escopos funcionam para “limitar” o acesso do código a uma variável.
